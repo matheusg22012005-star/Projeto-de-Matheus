@@ -1,0 +1,11 @@
+a,b,c,d,e,f,g,h,l,m = "Matheus" , "Aleks" , "Gabriel" , "Evandro" , "João" , "Pedro" , "Luiz" , "Vitor" , "Ryan" , "Júlia"
+print(a)
+print(b)
+print(c)
+print(d)
+print(e)
+print(f)
+print(g)
+print(h)
+print(l)
+print(m)
